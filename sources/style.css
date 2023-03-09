@@ -1,0 +1,11 @@
+.products {
+    text-align: center;
+    padding: 5px;
+}
+
+.products img {
+    height: 200px;
+    border-radius: 10%;
+}
+
+a {color: white;}
